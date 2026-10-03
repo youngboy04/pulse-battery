@@ -1,0 +1,33 @@
+# Generated Flutter / Dart files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+test/failures/
+
+# Local builds and hardware research
+dist/
+research/
+*.log
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.dll
+*.zip
+
+# Editor / OS files and local configuration
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
